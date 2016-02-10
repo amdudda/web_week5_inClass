@@ -17,3 +17,8 @@ li {
 p {
     font-family:"Century Schoolbook L", serif;
 }
+
+p:first-letter {
+    color: plum;
+    font-size: 120%;
+}
