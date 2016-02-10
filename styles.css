@@ -4,8 +4,16 @@ body {
 }
 
 #colorblock {
-    background-color: crimson;
+    background-color: purple;
     border: 2px solid plum;
     height: 50px;
     width: 50px;
+}
+
+li {
+    font-style: italic;
+}
+
+p {
+    font-family:"Century Schoolbook L", serif;
 }
